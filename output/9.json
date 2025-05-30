@@ -1,0 +1,118 @@
+[
+  {
+    "word": "911",
+    "llmResponse": {
+      "word": "911",
+      "forms": [],
+      "meaning": "n. 紧急求助电话",
+      "etymology": "",
+      "senses": [
+        {
+          "form": "N-COUNT",
+          "tips": [],
+          "synonym": [],
+          "examples": [
+            {
+              "english": "The women made their first 911 call about a prowler at 12:46 a.m.",
+              "chinese": "那些女人在上午12点46分第一次打911报警说有小偷。"
+            }
+          ],
+          "chineseExplanation": "美国的紧急求助电话号码",
+          "englishExplanation": "911 is the number that you call in the United States in order to contact the emergency services.",
+          "grammar": ""
+        }
+      ],
+      "usages": [],
+      "linkTo": []
+    }
+  },
+  {
+    "word": "999",
+    "llmResponse": {
+      "word": "999",
+      "forms": [],
+      "meaning": "NUM. 紧急号码",
+      "etymology": "",
+      "senses": [
+        {
+          "form": "NUM",
+          "tips": [],
+          "synonym": [],
+          "examples": [
+            {
+              "english": "...a fire engine answering a 999 call.",
+              "chinese": "应999紧急呼叫出动的救火车"
+            },
+            {
+              "english": "She dialled 999 on her mobile.",
+              "chinese": "她用手机拨打了999。"
+            }
+          ],
+          "chineseExplanation": "(英国的紧急求助电话号码)",
+          "englishExplanation": "999 is the number that you call in Britain in order to contact the emergency services.",
+          "grammar": ""
+        }
+      ],
+      "usages": [],
+      "linkTo": []
+    }
+  },
+  {
+    "word": "999",
+    "llmResponse": {
+      "word": "999",
+      "forms": [],
+      "meaning": "n. 紧急号码",
+      "etymology": "",
+      "senses": [
+        {
+          "form": "N-COUNT",
+          "tips": [],
+          "synonym": [],
+          "examples": [
+            {
+              "english": "a fire engine answering a 999 call",
+              "chinese": "应999紧急呼叫出动的救火车"
+            },
+            {
+              "english": "She dialled 999 on her mobile",
+              "chinese": "她用手机拨打了999"
+            }
+          ],
+          "chineseExplanation": "英国的紧急求助电话号码",
+          "englishExplanation": "999 is the number that you call in Britain in order to contact the emergency services",
+          "grammar": ""
+        }
+      ],
+      "usages": [],
+      "linkTo": []
+    }
+  },
+  {
+    "word": "911",
+    "llmResponse": {
+      "word": "911",
+      "forms": [],
+      "meaning": "n. 紧急电话",
+      "etymology": "",
+      "senses": [
+        {
+          "form": "N-COUNT",
+          "tips": [],
+          "synonym": [],
+          "examples": [
+            {
+              "english": "The women made their first 911 call about a prowler at 12:46 a.m.",
+              "chinese": "那些女人在上午12点46分第一次打911报警说有小偷。"
+            }
+          ],
+          "chineseExplanation": "美国的紧急求助电话号码",
+          "englishExplanation": "911 is the number that you call in the United States in order to contact the emergency services.",
+          "grammar": ""
+        }
+      ],
+      "usages": [],
+      "linkTo": []
+    }
+  }
+]

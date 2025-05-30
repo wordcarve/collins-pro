@@ -15,6 +15,13 @@ async function writeToJsonFile(char, entry) {
         try {
             const data = await fsPromises.readFile(outputFile, 'utf-8');
             entries = JSON.parse(data);
+            
+            // 检查是否已存在相同的词条
+            const exists = entries.some(e => e.word.toLowerCase() === entry.word.toLowerCase());
+            if (exists) {
+                console.log(`跳过已存在的词条: ${entry.word}`);
+                return false;
+            }
         } catch (error) {
             if (error.code !== 'ENOENT' && !(error instanceof SyntaxError)) {
                 throw error;

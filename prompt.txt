@@ -52,13 +52,13 @@
 ```
 
 ### 2. `form`字段生死规则  
-✅ **必须做到**  
+**必须做到**  
 - 使用占位符：`sb.`(某人)/`sth.`(某物)/`sb's sth.`(某人之物)  
 - 保留介词/副词（`in`/`with`/`up`）  
 - 合格示例：  
   `deprive sb. of sth.`｜`phone in sick`｜`preference for sth.`  
 
-❌ **严禁出现**  
+**严禁出现**  
 - 词性名称（noun/verb/adjective）  
 - 导航标记（→/See also:）  
 - 非本单词的具体词汇（如`"agency"`）  
@@ -67,7 +67,7 @@
 ---  
 # 执行指令  
 1. 严格校验每个`sense.form`有效性  
-2. 将`"Phrasal verbs:"`下列表转化为`usages`条目  
+2. 将`"Phrasal verbs:"`下列表转化为`usages`条目，精确全面提取 usages
 3. 为`usages`自拟例句时确保语法结构精准匹配  
 4. 输出纯净JSON，无注释/无多余符号  
 5. 严禁输出```json！

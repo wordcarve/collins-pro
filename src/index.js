@@ -1,5 +1,6 @@
 const fs = require('fs');
 const fsPromises = require('fs/promises');
+const path = require('path');
 const csv = require('csv-parser');
 const CONFIG = require('./config');
 const { retryOperation } = require('./utils/retryUtils');
@@ -16,8 +17,23 @@ const { concurrentQueue } = require('./services/queueService');
 async function processWord(task, promptTemplate) {
     const { word, senses } = task;
     const modelToUse = CONFIG.MODEL;
+    const firstChar = word.charAt(0).toUpperCase();
 
     try {
+        // 检查词条是否已存在于对应的JSON文件中
+        const outputFile = path.join(CONFIG.OUTPUT_DIR, `${firstChar}.json`);
+        try {
+            const data = await fsPromises.readFile(outputFile, 'utf-8');
+            const entries = JSON.parse(data);
+            const exists = entries.some(e => e.word.toLowerCase() === word.toLowerCase());
+            if (exists) {
+                console.log(`跳过已存在的词条: ${word}`);
+                return;
+            }
+        } catch (error) {
+            // 文件不存在或解析错误，继续处理
+        }
+
         await retryOperation(async () => {
             const prompt = promptTemplate.replace('JSON_HERE', senses);
             const llmResponseContent = await callLlmApi(prompt, modelToUse);
@@ -85,7 +101,7 @@ async function main() {
 
         console.log(`开始并发处理 ${tasks.length} 个 LLM 调用...`);
         await concurrentQueue(tasks, CONFIG.CONCURRENT_LIMIT, (progress, status) => {
-            console.log(`处理进度: ${progress}% | 已完成: ${status.completedTasks} | 失败: ${status.failedTasks} | 队列中: ${status.queueLength} | 运行中: ${status.runningTasks}`);
+            console.log(`处理进度: ${progress}% | 已完成: ${status.completedTasks} (跳过: ${status.skippedTasks}) | 失败: ${status.failedTasks} | 队列中: ${status.queueLength} | 运行中: ${status.runningTasks}`);
         });
         console.log('所有 LLM 调用处理完成。');
 

@@ -1,0 +1,62 @@
+[
+  {
+    "word": "247",
+    "llmResponse": {
+      "word": "24-7",
+      "forms": [],
+      "meaning": "adv. 不间断地",
+      "etymology": "数字24(小时)+7(天)→全天候→不间断",
+      "senses": [
+        {
+          "form": "ADV",
+          "tips": [
+            "ADVERB after verb",
+            "mainly US, informal"
+          ],
+          "synonym": [],
+          "examples": [
+            {
+              "english": "I feel like sleeping 24-7.",
+              "chinese": "我想一直睡下去。"
+            }
+          ],
+          "chineseExplanation": "连续发生地",
+          "englishExplanation": "If something happens 24-7, it happens all the time without ever stopping.",
+          "grammar": "ADV after verb"
+        }
+      ],
+      "usages": [],
+      "linkTo": []
+    }
+  },
+  {
+    "word": "247",
+    "llmResponse": {
+      "word": "24-7",
+      "forms": [],
+      "meaning": "adv. 不间断地",
+      "etymology": "",
+      "senses": [
+        {
+          "form": "ADV",
+          "tips": [
+            "ADVERB after verb",
+            "mainly US, informal"
+          ],
+          "synonym": [],
+          "examples": [
+            {
+              "english": "I feel like sleeping 24-7.",
+              "chinese": "我想一直睡下去。"
+            }
+          ],
+          "chineseExplanation": "连续发生地;不中断地;无休止地",
+          "englishExplanation": "If something happens 24-7, it happens all the time without ever stopping. 24-7 means twenty-four hours a day, seven days a week.",
+          "grammar": "ADV after verb"
+        }
+      ],
+      "usages": [],
+      "linkTo": []
+    }
+  }
+]

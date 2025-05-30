@@ -1,0 +1,171 @@
+[
+  {
+    "word": "lost",
+    "llmResponse": {
+      "word": "lost",
+      "forms": [
+        "lost"
+      ],
+      "meaning": "adj. 迷失的",
+      "etymology": "",
+      "senses": [
+        {
+          "form": "ADJ",
+          "tips": [
+            "usually verb-link ADJ"
+          ],
+          "synonym": [],
+          "examples": [
+            {
+              "english": "Barely had I set foot in the street when I realised I was lost.",
+              "chinese": "我在街上没走几步就意识到自己迷路了。"
+            },
+            {
+              "english": "I took a wrong turn and we got lost in the mountains.",
+              "chinese": "我拐错了弯，我们便在山里迷了路。"
+            }
+          ],
+          "chineseExplanation": "迷路的；迷失的；走失的",
+          "englishExplanation": "If you are lost or if you get lost, you do not know where you are or are unable to find your way.",
+          "grammar": ""
+        },
+        {
+          "form": "ADJ",
+          "tips": [],
+          "synonym": [
+            "missing",
+            "missed",
+            "disappeared",
+            "vanished"
+          ],
+          "examples": [
+            {
+              "english": "...a lost book.",
+              "chinese": "一本找不着的书"
+            },
+            {
+              "english": "My paper got lost.",
+              "chinese": "我的论文丢了。"
+            }
+          ],
+          "chineseExplanation": "遗失的；丢失的",
+          "englishExplanation": "If something is lost, or gets lost, you cannot find it, for example because you have forgotten where you put it.",
+          "grammar": ""
+        },
+        {
+          "form": "ADJ",
+          "tips": [
+            "usually verb-link ADJ"
+          ],
+          "synonym": [
+            "bewildered",
+            "confused",
+            "puzzled",
+            "baffled"
+          ],
+          "examples": [
+            {
+              "english": "Of the funeral he remembered only the cold, the waiting, and feeling very lost.",
+              "chinese": "关于葬礼，他只记得那冷冷的天，那久久的等候和那种茫然若失的感觉。"
+            }
+          ],
+          "chineseExplanation": "茫然的；不知所措的",
+          "englishExplanation": "If you feel lost, you feel very uncomfortable because you are in an unfamiliar situation.",
+          "grammar": ""
+        },
+        {
+          "form": "ADJ",
+          "tips": [],
+          "synonym": [],
+          "examples": [
+            {
+              "english": "They are a lost generation in search of an identity.",
+              "chinese": "他们属于迷惘的一代，想要找寻自我。"
+            }
+          ],
+          "chineseExplanation": "迷惘的；无目标的；无方向的",
+          "englishExplanation": "If you describe a person or group of people as lost, you think that they do not have a clear idea of what they want to do or achieve.",
+          "grammar": ""
+        },
+        {
+          "form": "ADJ",
+          "tips": [],
+          "synonym": [
+            "gone",
+            "finished",
+            "destroyed",
+            "vanished"
+          ],
+          "examples": [
+            {
+              "english": "...their lost homeland.",
+              "chinese": "他们失去的祖国"
+            }
+          ],
+          "chineseExplanation": "丧失的；不复存在的",
+          "englishExplanation": "If you describe something as lost, you mean that you no longer have it or it no longer exists.",
+          "grammar": ""
+        },
+        {
+          "form": "ADJ",
+          "tips": [
+            "ADJ n"
+          ],
+          "synonym": [
+            "past",
+            "former",
+            "gone",
+            "dead"
+          ],
+          "examples": [
+            {
+              "english": "He seemed to pine for his lost youth.",
+              "chinese": "他似乎很怀念逝去的青春。"
+            }
+          ],
+          "chineseExplanation": "消逝的；逝去的；过去的",
+          "englishExplanation": "You use lost to refer to a period or state of affairs that existed in the past and no longer exists.",
+          "grammar": ""
+        }
+      ],
+      "usages": [
+        {
+          "form": "get lost",
+          "meaning": "滚开",
+          "examples": []
+        },
+        {
+          "form": "be lost on sb.",
+          "meaning": "未被理解",
+          "examples": [
+            {
+              "english": "The meaning of that was lost on me.",
+              "chinese": "那意思我没听懂。"
+            }
+          ]
+        },
+        {
+          "form": "be lost in thought",
+          "meaning": "陷入沉思",
+          "examples": [
+            {
+              "english": "She was silent for a while, lost in thought.",
+              "chinese": "一时间她默不作声，直想得入了神。"
+            }
+          ]
+        },
+        {
+          "form": "be lost without sb./sth.",
+          "meaning": "没有就不开心",
+          "examples": [
+            {
+              "english": "I'd be lost without you here.",
+              "chinese": "没有你在这里我都不知怎么办好。"
+            }
+          ]
+        }
+      ],
+      "linkTo": []
+    }
+  }
+]

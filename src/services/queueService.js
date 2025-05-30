@@ -57,8 +57,20 @@ class TaskQueue {
 
         try {
             const result = await taskInfo.task();
-            taskInfo.resolve(result);
-            this.completedTasks++;
+            // 如果任务返回undefined（表示跳过），也计入完成数
+            if (result === undefined) {
+                taskInfo.resolve();
+                this.completedTasks++;
+                this.skippedTasks = (this.skippedTasks || 0) + 1;
+            } else if (result === false) {
+                // 如果任务返回false（表示已存在），也计入完成数
+                taskInfo.resolve();
+                this.completedTasks++;
+                this.skippedTasks = (this.skippedTasks || 0) + 1;
+            } else {
+                taskInfo.resolve(result);
+                this.completedTasks++;
+            }
         } catch (error) {
             if (taskInfo.remainingRetries > 0) {
                 taskInfo.remainingRetries--;
@@ -85,6 +97,7 @@ class TaskQueue {
             queueLength: this.queue.length,
             runningTasks: this.running,
             completedTasks: this.completedTasks,
+            skippedTasks: this.skippedTasks || 0,
             failedTasks: this.failedTasks,
             totalTasks: this.queue.length + this.running + this.completedTasks + this.failedTasks
         };

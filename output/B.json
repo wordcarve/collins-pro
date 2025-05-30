@@ -1,0 +1,245 @@
+[
+  {
+    "word": "ba'",
+    "llmResponse": {
+      "word": "",
+      "forms": [],
+      "meaning": "n. 奥克尼球赛",
+      "etymology": "",
+      "senses": [
+        {
+          "form": "N-COUNT",
+          "tips": [],
+          "synonym": [],
+          "examples": [
+            {
+              "english": "The annual Kirkwall Ba' game is a traditional N-COUNT played in Orkney during the festive season.",
+              "chinese": "每年在柯克沃尔举行的Ba'比赛是奥克尼节日期间的传统球赛活动"
+            }
+          ],
+          "chineseExplanation": "圣诞和元旦期间在奥克尼郡举行的类似橄榄球的比赛",
+          "englishExplanation": "a game somewhat like rugby played in Orkney at Christmas and New Year between two very large teams of players",
+          "grammar": ""
+        }
+      ],
+      "usages": [],
+      "linkTo": []
+    }
+  },
+  {
+    "word": "Balaclava",
+    "llmResponse": {
+      "word": "balaclava",
+      "forms": [
+        "balaclavas"
+      ],
+      "meaning": "n. 盔式大绒帽",
+      "etymology": "",
+      "senses": [
+        {
+          "form": "N-COUNT",
+          "tips": [],
+          "synonym": [],
+          "examples": [
+            {
+              "english": "A balaclava is a tight woollen hood that covers every part of your head except your face.",
+              "chinese": "巴拉克拉法帽是一种紧身羊毛帽，能遮住除脸部以外的整个头部。"
+            }
+          ],
+          "chineseExplanation": "盔式大绒帽",
+          "englishExplanation": "A balaclava is a tight woollen hood that covers every part of your head except your face.",
+          "grammar": ""
+        }
+      ],
+      "usages": [],
+      "linkTo": []
+    }
+  },
+  {
+    "word": "babel",
+    "llmResponse": {
+      "word": "babel",
+      "forms": [
+        "babel"
+      ],
+      "meaning": "n. 嘈杂声",
+      "etymology": "",
+      "senses": [
+        {
+          "form": "N-SING",
+          "tips": [],
+          "synonym": [
+            "din",
+            "disorder",
+            "confusion",
+            "turmoil"
+          ],
+          "examples": [
+            {
+              "english": "...a confused babel of sound.",
+              "chinese": "...一种混乱的嘈杂声。"
+            }
+          ],
+          "chineseExplanation": "嘈杂声",
+          "englishExplanation": "If there is a babel of voices, you hear a lot of people talking at the same time, so that you cannot understand what they are saying.",
+          "grammar": ""
+        }
+      ],
+      "usages": [],
+      "linkTo": []
+    }
+  },
+  {
+    "word": "babe",
+    "llmResponse": {
+      "word": "babe",
+      "forms": [],
+      "meaning": "n. 宝贝儿",
+      "etymology": "",
+      "senses": [
+        {
+          "form": "N-VOC",
+          "tips": [
+            "US, informal, feelings"
+          ],
+          "synonym": [
+            "darling",
+            "love",
+            "dear"
+          ],
+          "examples": [
+            {
+              "english": "I'm sorry, babe. I didn't mean it.",
+              "chinese": "对不起，宝贝儿。我不是有意的。"
+            }
+          ],
+          "chineseExplanation": "宝贝儿（昵称）",
+          "englishExplanation": "Some people use babe as an affectionate way of addressing someone they love.",
+          "grammar": ""
+        },
+        {
+          "form": "N-COUNT",
+          "tips": [
+            "informal"
+          ],
+          "synonym": [],
+          "examples": [],
+          "chineseExplanation": "宝贝儿（对漂亮女性的称呼）",
+          "englishExplanation": "Some men refer to an attractive young woman as a babe.",
+          "grammar": ""
+        },
+        {
+          "form": "N-COUNT",
+          "tips": [
+            "old-fashioned"
+          ],
+          "synonym": [],
+          "examples": [
+            {
+              "english": "...newborn babes.",
+              "chinese": "新生儿"
+            }
+          ],
+          "chineseExplanation": "婴儿",
+          "englishExplanation": "A babe is the same as a baby.",
+          "grammar": ""
+        }
+      ],
+      "usages": [],
+      "linkTo": []
+    }
+  },
+  {
+    "word": "BachelorofScience",
+    "llmResponse": {
+      "word": "",
+      "forms": [],
+      "meaning": "n. 理学士学位",
+      "etymology": "",
+      "senses": [
+        {
+          "form": "N-COUNT",
+          "tips": [],
+          "synonym": [],
+          "examples": [
+            {
+              "english": "She obtained a BSc in Chemistry from Oxford University.",
+              "chinese": "她获得了牛津大学化学理学士学位。"
+            },
+            {
+              "english": "After completing his B.Sc., he pursued a master's degree.",
+              "chinese": "获得理学士学位后，他继续攻读硕士学位。"
+            }
+          ],
+          "chineseExplanation": "理学士学位",
+          "englishExplanation": "A first degree in a science subject or a person with that degree",
+          "grammar": "N-COUNT"
+        }
+      ],
+      "usages": [
+        {
+          "form": "BSc/B.Sc.",
+          "meaning": "理学士缩写",
+          "examples": [
+            {
+              "english": "The job requires at least a BSc in Computer Science.",
+              "chinese": "该职位要求至少具有计算机科学理学士学位。"
+            }
+          ]
+        }
+      ],
+      "linkTo": []
+    }
+  },
+  {
+    "word": "bachelorsdegree",
+    "llmResponse": {
+      "word": "",
+      "forms": [],
+      "meaning": "n. 学士学位",
+      "etymology": "",
+      "senses": [
+        {
+          "form": "N-COUNT",
+          "tips": [],
+          "synonym": [],
+          "examples": [],
+          "chineseExplanation": "学士学位",
+          "englishExplanation": "A bachelor's degree is a first degree awarded by universities.",
+          "grammar": ""
+        }
+      ],
+      "usages": [],
+      "linkTo": []
+    }
+  },
+  {
+    "word": "baboon",
+    "llmResponse": {
+      "word": "baboon",
+      "forms": [
+        "baboons"
+      ],
+      "meaning": "n. 狒狒",
+      "etymology": "",
+      "senses": [
+        {
+          "form": "N-COUNT",
+          "tips": [],
+          "synonym": [],
+          "examples": [
+            {
+              "english": "A baboon is a large monkey that lives in Africa.",
+              "chinese": "狒狒是一种生活在非洲的大型猴子。"
+            }
+          ],
+          "chineseExplanation": "狒狒（产于非洲）",
+          "englishExplanation": "A baboon is a large monkey that lives in Africa.",
+          "grammar": ""
+        }
+      ],
+      "usages": [],
+      "linkTo": []
+    }
+  }
+]

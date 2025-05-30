@@ -1,0 +1,2463 @@
+[
+  {
+    "word": "a",
+    "llmResponse": {
+      "word": "a-",
+      "forms": [],
+      "meaning": "prefix. 非，无",
+      "etymology": "古希腊语前缀ἀ- (无) → 英语否定前缀",
+      "senses": [
+        {
+          "form": "PREFIX",
+          "tips": [],
+          "synonym": [],
+          "examples": [
+            {
+              "english": "I'm a completely apolitical man.",
+              "chinese": "我对政治毫无兴趣。"
+            },
+            {
+              "english": "She was amoral but honest.",
+              "chinese": "她是个真小人。"
+            },
+            {
+              "english": "...asymmetrical shapes.",
+              "chinese": "不对称的形状"
+            }
+          ],
+          "chineseExplanation": "非，无",
+          "englishExplanation": "A- is added to the beginning of some adjectives in order to form adjectives that describe someone or something that does not have the feature or quality indicated by the original word.",
+          "grammar": "PREFIX + adj"
+        }
+      ],
+      "usages": [],
+      "linkTo": []
+    }
+  },
+  {
+    "word": "abovethelinepromotion",
+    "llmResponse": {
+      "word": "above-the-line",
+      "forms": [
+        "above-the-line"
+      ],
+      "meaning": "adj. 大众传媒的",
+      "etymology": "above(在上)+the+line(线)→广告预算线上项目→大众传媒",
+      "senses": [
+        {
+          "form": "N-VAR",
+          "tips": [],
+          "synonym": [],
+          "examples": [
+            {
+              "english": "For all maternity clothing retailers, most above-the-line promotion is conducted through focused sources such as mother and baby magazines.",
+              "chinese": "对于所有销售孕妇装的零售商来说，大多数的大众传媒促销都是通过母婴杂志等有具体受众的渠道进行的。"
+            }
+          ],
+          "chineseExplanation": "大众传媒促销",
+          "englishExplanation": "Above-the-line promotion is the use of promotional methods that cannot be directly controlled by the company selling the goods or service, such as television or press advertising.",
+          "grammar": "N-VAR"
+        }
+      ],
+      "usages": [],
+      "linkTo": []
+    }
+  },
+  {
+    "word": "AB",
+    "llmResponse": {
+      "word": "AB",
+      "forms": [],
+      "meaning": "n. 同BA",
+      "etymology": "",
+      "senses": [
+        {
+          "form": "N-COUNT",
+          "tips": [],
+          "synonym": [],
+          "examples": [
+            {
+              "english": "She received an AB from Harvard before pursuing her master's degree.",
+              "chinese": "她在攻读硕士学位前获得了哈佛大学的AB学位。"
+            }
+          ],
+          "chineseExplanation": "（某些美国大学中）同BA",
+          "englishExplanation": "In some American universities, an AB is the same as a BA.",
+          "grammar": ""
+        }
+      ],
+      "usages": [],
+      "linkTo": []
+    }
+  },
+  {
+    "word": "abracadabra",
+    "llmResponse": {
+      "word": "abracadabra",
+      "forms": [],
+      "meaning": "exclam. 变",
+      "etymology": "",
+      "senses": [
+        {
+          "form": "EXCLAM",
+          "tips": [],
+          "synonym": [],
+          "examples": [
+            {
+              "english": "The magician shouted 'Abracadabra!' and pulled a rabbit out of the hat.",
+              "chinese": "魔术师喊了声“变！”，然后从帽子里拽出一只兔子。"
+            }
+          ],
+          "chineseExplanation": "（表演魔术时的用语）“变”",
+          "englishExplanation": "A word said when performing a magic trick to make it happen.",
+          "grammar": ""
+        }
+      ],
+      "usages": [],
+      "linkTo": []
+    }
+  },
+  {
+    "word": "aback",
+    "llmResponse": {
+      "word": "taken aback",
+      "forms": [],
+      "meaning": "phr. 吃惊",
+      "etymology": "",
+      "senses": [
+        {
+          "form": "PHRASE",
+          "tips": [],
+          "synonym": [],
+          "examples": [
+            {
+              "english": "Roland was taken aback by our strength of feeling.",
+              "chinese": "我们反应如此强烈，令罗兰大吃一惊。"
+            },
+            {
+              "english": "Derek was taken aback when a man answered the phone.",
+              "chinese": "德里克吓了一跳，居然是一个男的接的电话。"
+            }
+          ],
+          "chineseExplanation": "吃惊，震惊",
+          "englishExplanation": "If you are taken aback by something, you are surprised or shocked by it and you cannot respond at once.",
+          "grammar": "+ by"
+        }
+      ],
+      "usages": [],
+      "linkTo": []
+    }
+  },
+  {
+    "word": "abacus",
+    "llmResponse": {
+      "word": "abacus",
+      "forms": [
+        "abacus",
+        "abacuses"
+      ],
+      "meaning": "n. 算盘",
+      "etymology": "",
+      "senses": [
+        {
+          "form": "N-COUNT",
+          "tips": [],
+          "synonym": [],
+          "examples": [
+            {
+              "english": "The child learned to calculate using an abacus.",
+              "chinese": "这个孩子学会了用算盘计算。"
+            }
+          ],
+          "chineseExplanation": "算盘",
+          "englishExplanation": "An abacus is a frame used for counting. It has rods with sliding beads on them.",
+          "grammar": ""
+        }
+      ],
+      "usages": [],
+      "linkTo": []
+    }
+  },
+  {
+    "word": "Ab",
+    "llmResponse": {
+      "word": "AB",
+      "forms": [],
+      "meaning": "n. 同BA",
+      "etymology": "",
+      "senses": [
+        {
+          "form": "N-COUNT",
+          "tips": [],
+          "synonym": [],
+          "examples": [
+            {
+              "english": "She earned an AB from Harvard before pursuing her master's degree.",
+              "chinese": "她在攻读硕士学位前获得了哈佛大学的文学士学位（AB）。"
+            }
+          ],
+          "chineseExplanation": "（某些美国大学中）同BA",
+          "englishExplanation": "In some American universities, an AB is the same as a BA.",
+          "grammar": ""
+        }
+      ],
+      "usages": [],
+      "linkTo": []
+    }
+  },
+  {
+    "word": "abrade",
+    "llmResponse": {
+      "word": "abrade",
+      "forms": [
+        "abrades",
+        "abraded",
+        "abrading"
+      ],
+      "meaning": "vt. 磨损",
+      "etymology": "ab(离开)+radere(刮擦)→刮擦掉→磨损",
+      "senses": [
+        {
+          "form": "VERB",
+          "tips": [
+            "formal"
+          ],
+          "synonym": [
+            "scrape",
+            "grind",
+            "skin",
+            "file"
+          ],
+          "examples": [
+            {
+              "english": "My skin was abraded and very tender.",
+              "chinese": "我擦破皮了，一碰就疼。"
+            }
+          ],
+          "chineseExplanation": "磨损；磨蚀；擦伤",
+          "englishExplanation": "To abrade something means to scrape or wear down its surface by rubbing it.",
+          "grammar": "be VERB-ed"
+        }
+      ],
+      "usages": [],
+      "linkTo": []
+    }
+  },
+  {
+    "word": "abrasion",
+    "llmResponse": {
+      "word": "abrasion",
+      "forms": [
+        "abrasions"
+      ],
+      "meaning": "n. 擦伤",
+      "etymology": "",
+      "senses": [
+        {
+          "form": "N-COUNT",
+          "tips": [
+            "formal"
+          ],
+          "synonym": [
+            "graze",
+            "scratch",
+            "scrape"
+          ],
+          "examples": [
+            {
+              "english": "He had severe abrasions to his right cheek.",
+              "chinese": "他的右脸颊有严重的擦伤。"
+            }
+          ],
+          "chineseExplanation": "（皮肤的）擦伤（处）",
+          "englishExplanation": "An area on a person's body where the skin has been scraped",
+          "grammar": "+ to"
+        }
+      ],
+      "usages": [],
+      "linkTo": []
+    }
+  },
+  {
+    "word": "abalone",
+    "llmResponse": {
+      "word": "abalone",
+      "forms": [],
+      "meaning": "n. 鲍鱼",
+      "etymology": "",
+      "senses": [
+        {
+          "form": "N-VAR",
+          "tips": [],
+          "synonym": [],
+          "examples": [
+            {
+              "english": "Abalone is a shellfish that you can eat and that has a shiny substance called mother-of-pearl inside its shell.",
+              "chinese": "鲍鱼是一种可食用的水生动物，其壳内有发光物质称为珍珠母。"
+            }
+          ],
+          "chineseExplanation": "鲍鱼",
+          "englishExplanation": "A shellfish that is edible and contains mother-of-pearl inside its shell.",
+          "grammar": ""
+        }
+      ],
+      "usages": [],
+      "linkTo": []
+    }
+  },
+  {
+    "word": "abashed",
+    "llmResponse": {
+      "word": "abashed",
+      "forms": [],
+      "meaning": "adj. 尴尬的",
+      "etymology": "",
+      "senses": [
+        {
+          "form": "ADJ",
+          "tips": [
+            "usually verb-link ADJ",
+            "written"
+          ],
+          "synonym": [
+            "embarrassed",
+            "confused",
+            "humbled",
+            "humiliated"
+          ],
+          "examples": [
+            {
+              "english": "He looked abashed, uncomfortable.",
+              "chinese": "他看起来有点困窘，很不自在。"
+            }
+          ],
+          "chineseExplanation": "尴尬的；窘迫的；羞愧的",
+          "englishExplanation": "If you are abashed, you feel embarrassed and ashamed.",
+          "grammar": "ADJ + to be"
+        }
+      ],
+      "usages": [],
+      "linkTo": []
+    }
+  },
+  {
+    "word": "abandoned",
+    "llmResponse": {
+      "word": "abandoned",
+      "forms": [
+        "abandoned"
+      ],
+      "meaning": "adj. 废弃的",
+      "etymology": "abandon(放弃)+-ed(形容词后缀)→被放弃的状态→废弃的",
+      "senses": [
+        {
+          "form": "ADJ",
+          "tips": [
+            "usually ADJ n"
+          ],
+          "synonym": [
+            "unoccupied",
+            "empty",
+            "deserted",
+            "vacant"
+          ],
+          "examples": [
+            {
+              "english": "All that digging had left a network of abandoned mines and tunnels.",
+              "chinese": "东挖西掘后留下了一片废弃的矿坑。"
+            },
+            {
+              "english": "Abandoned buildings that become a breeding ground for crime.",
+              "chinese": "沦为了犯罪温床的弃置楼群"
+            }
+          ],
+          "chineseExplanation": "废弃的",
+          "englishExplanation": "No longer used or occupied",
+          "grammar": "ADJ + noun"
+        }
+      ],
+      "usages": [],
+      "linkTo": []
+    }
+  },
+  {
+    "word": "absinthe",
+    "llmResponse": {
+      "word": "absinthe",
+      "forms": [
+        "absinthe"
+      ],
+      "meaning": "n. 苦艾酒",
+      "etymology": "",
+      "senses": [
+        {
+          "form": "N-UNCOUNT",
+          "tips": [],
+          "synonym": [],
+          "examples": [
+            {
+              "english": "He ordered a glass of absinthe at the bar.",
+              "chinese": "他在酒吧点了一杯苦艾酒。"
+            }
+          ],
+          "chineseExplanation": "苦艾酒（一种烈酒，色绿味苦）",
+          "englishExplanation": "Absinthe is a very strong alcoholic drink that is green and tastes bitter.",
+          "grammar": ""
+        }
+      ],
+      "usages": [],
+      "linkTo": []
+    }
+  },
+  {
+    "word": "abate",
+    "llmResponse": {
+      "word": "abate",
+      "forms": [
+        "abates",
+        "abated",
+        "abating"
+      ],
+      "meaning": "v. 减弱",
+      "etymology": "a-(加强)+bate(打击)→减轻打击→减弱",
+      "senses": [
+        {
+          "form": "VERB",
+          "tips": [
+            "formal"
+          ],
+          "synonym": [],
+          "examples": [
+            {
+              "english": "The storms had abated by the time they rounded Cape Horn.",
+              "chinese": "他们绕过合恩角时，暴风雨已经减弱。"
+            },
+            {
+              "english": "...a crime wave that shows no sign of abating.",
+              "chinese": "丝毫没有减弱迹象的犯罪势头"
+            }
+          ],
+          "chineseExplanation": "减弱；减轻；减退",
+          "englishExplanation": "If something bad or undesirable abates, it becomes much less strong or severe.",
+          "grammar": "VERB"
+        }
+      ],
+      "usages": [],
+      "linkTo": []
+    }
+  },
+  {
+    "word": "abandonment",
+    "llmResponse": {
+      "word": "abandonment",
+      "forms": [],
+      "meaning": "n. 放弃",
+      "etymology": "",
+      "senses": [
+        {
+          "form": "N-UNCOUNT",
+          "tips": [],
+          "synonym": [
+            "desertion",
+            "leaving",
+            "forsaking",
+            "jilting"
+          ],
+          "examples": [
+            {
+              "english": "...memories of her father's complete abandonment of her.",
+              "chinese": "对父亲完全弃她不顾的回忆"
+            }
+          ],
+          "chineseExplanation": "离弃；遗弃；抛弃",
+          "englishExplanation": "The abandonment of a place, thing, or person is the act of leaving it permanently or for a long time, especially when you should not do so.",
+          "grammar": "+ of"
+        },
+        {
+          "form": "N-UNCOUNT",
+          "tips": [],
+          "synonym": [
+            "stopping",
+            "cessation",
+            "discontinuation",
+            "desistance"
+          ],
+          "examples": [
+            {
+              "english": "Constant rain forced the abandonment of the next day's competitions.",
+              "chinese": "连绵阴雨致使翌日各项赛事被迫中止。"
+            }
+          ],
+          "chineseExplanation": "中途放弃，中止",
+          "englishExplanation": "The abandonment of a piece of work or activity is the act of stopping doing it before it is finished.",
+          "grammar": "+ of"
+        },
+        {
+          "form": "N-UNCOUNT",
+          "tips": [],
+          "synonym": [],
+          "examples": [
+            {
+              "english": "...the government's abandonment of the policy.",
+              "chinese": "政府对这项政策的放弃"
+            }
+          ],
+          "chineseExplanation": "放弃想法",
+          "englishExplanation": "The abandonment of an idea or way of thinking is the act of stopping having the idea or of stopping thinking in that way.",
+          "grammar": "+ of"
+        }
+      ],
+      "usages": [],
+      "linkTo": []
+    }
+  },
+  {
+    "word": "abattoir",
+    "llmResponse": {
+      "word": "abattoir",
+      "forms": [
+        "abattoir",
+        "abattoirs"
+      ],
+      "meaning": "n. 屠宰场",
+      "etymology": "",
+      "senses": [
+        {
+          "form": "N-COUNT",
+          "tips": [
+            "British"
+          ],
+          "synonym": [
+            "slaughterhouse",
+            "shambles",
+            "butchery"
+          ],
+          "examples": [
+            {
+              "english": "The new abattoir meets EU hygiene standards.",
+              "chinese": "新屠宰场符合欧盟卫生标准"
+            }
+          ],
+          "chineseExplanation": "屠宰场",
+          "englishExplanation": "An abattoir is a place where animals are killed in order to provide meat.",
+          "grammar": ""
+        }
+      ],
+      "usages": [],
+      "linkTo": []
+    }
+  },
+  {
+    "word": "abandon",
+    "llmResponse": {
+      "word": "abandon",
+      "forms": [],
+      "meaning": "v. 放弃",
+      "etymology": "",
+      "senses": [
+        {
+          "form": "VERB",
+          "tips": [],
+          "synonym": [
+            "leave",
+            "strand",
+            "ditch",
+            "leave behind"
+          ],
+          "examples": [
+            {
+              "english": "He claimed that his parents had abandoned him.",
+              "chinese": "他声称父母遗弃了他。"
+            },
+            {
+              "english": "The road is strewn with abandoned vehicles.",
+              "chinese": "道路上满是弃置的车辆。"
+            }
+          ],
+          "chineseExplanation": "离弃；遗弃；抛弃",
+          "englishExplanation": "If you abandon a place, thing, or person, you leave the place, thing, or person permanently or for a long time, especially when you should not do so.",
+          "grammar": "VERB noun"
+        },
+        {
+          "form": "VERB",
+          "tips": [],
+          "synonym": [
+            "stop",
+            "drop",
+            "give up",
+            "halt"
+          ],
+          "examples": [
+            {
+              "english": "The authorities have abandoned any attempt to distribute food.",
+              "chinese": "当局中止了分发食物的尝试。"
+            },
+            {
+              "english": "The scheme's investors, fearful of bankruptcy, decided to abandon the project.",
+              "chinese": "因为担心破产，该计划的投资者决定放弃这个项目。"
+            }
+          ],
+          "chineseExplanation": "中途放弃，中止",
+          "englishExplanation": "If you abandon an activity or piece of work, you stop doing it before it is finished.",
+          "grammar": "VERB noun"
+        },
+        {
+          "form": "VERB",
+          "tips": [],
+          "synonym": [],
+          "examples": [
+            {
+              "english": "Logic had prevailed and he had abandoned the idea.",
+              "chinese": "最终理智占了上风，他打消了那个念头。"
+            }
+          ],
+          "chineseExplanation": "放弃（想法）",
+          "englishExplanation": "If you abandon an idea or way of thinking, you stop having that idea or thinking in that way.",
+          "grammar": "VERB noun"
+        },
+        {
+          "form": "VERB",
+          "tips": [],
+          "synonym": [],
+          "examples": [
+            {
+              "english": "We are scared to abandon ourselves to our feelings in case we seem weak or out of control.",
+              "chinese": "我们不敢放纵自己的情感，以免显得太过软弱或缺乏自制。"
+            }
+          ],
+          "chineseExplanation": "放纵；沉湎",
+          "englishExplanation": "If you abandon yourself to an emotion, you think about it a lot and feel it strongly, especially when other people might think you are wrong to do so.",
+          "grammar": "V pron-refl to n"
+        },
+        {
+          "form": "N-UNCOUNT",
+          "tips": [
+            "usu with N",
+            "disapproval"
+          ],
+          "synonym": [
+            "recklessness",
+            "dash",
+            "wildness",
+            "wantonness"
+          ],
+          "examples": [
+            {
+              "english": "He has spent money with gay abandon.",
+              "chinese": "他肆意挥霍钱财。"
+            },
+            {
+              "english": "Their permissiveness toward their children reflects the wild abandon of their own lives.",
+              "chinese": "他们对孩子的放任折射出他们自身生活的放浪形骸。"
+            }
+          ],
+          "chineseExplanation": "放任；放纵",
+          "englishExplanation": "If you say that someone does something with abandon, you mean that they behave in a wild, uncontrolled way and do not think or care about how they should behave.",
+          "grammar": ""
+        }
+      ],
+      "usages": [
+        {
+          "form": "abandon ship",
+          "meaning": "弃船",
+          "examples": [
+            {
+              "english": "The officers and crew prepared to abandon ship in an orderly fashion.",
+              "chinese": "全体船员秩序井然地准备弃船。"
+            }
+          ]
+        }
+      ],
+      "linkTo": []
+    }
+  },
+  {
+    "word": "abdomen",
+    "llmResponse": {
+      "word": "abdomen",
+      "forms": [],
+      "meaning": "n. 腹部",
+      "etymology": "",
+      "senses": [
+        {
+          "form": "N-COUNT",
+          "tips": [
+            "oft poss NOUN",
+            "formal"
+          ],
+          "synonym": [
+            "stomach",
+            "corporation",
+            "guts",
+            "belly"
+          ],
+          "examples": [
+            {
+              "english": "He was suffering from pains in his abdomen.",
+              "chinese": "他感到腹部剧痛。"
+            }
+          ],
+          "chineseExplanation": "腹（部）",
+          "englishExplanation": "Your abdomen is the part of your body below your chest where your stomach and intestines are.",
+          "grammar": ""
+        }
+      ],
+      "usages": [],
+      "linkTo": []
+    }
+  },
+  {
+    "word": "abbreviation",
+    "llmResponse": {
+      "word": "abbreviation",
+      "forms": [
+        "abbreviations"
+      ],
+      "meaning": "n. 缩写词",
+      "etymology": "abbreviate(缩短)+ion(名词后缀)→缩短的形式→缩写",
+      "senses": [
+        {
+          "form": "N-COUNT",
+          "tips": [],
+          "synonym": [
+            "shortening",
+            "reduction",
+            "résumé",
+            "trimming"
+          ],
+          "examples": [
+            {
+              "english": "The postal abbreviation for Kansas is KS.",
+              "chinese": "堪萨斯州的邮政缩写是KS。"
+            }
+          ],
+          "chineseExplanation": "缩写词；缩略形式",
+          "englishExplanation": "An abbreviation is a short form of a word or phrase, made by leaving out some of the letters or by using only the first letter of each word.",
+          "grammar": ""
+        }
+      ],
+      "usages": [],
+      "linkTo": []
+    }
+  },
+  {
+    "word": "abrogate",
+    "llmResponse": {
+      "word": "abrogate",
+      "forms": [],
+      "meaning": "vt. 废除",
+      "etymology": "ab(离开)+rog(要求)+ate(使)→使要求离开→废除",
+      "senses": [
+        {
+          "form": "VERB",
+          "tips": [
+            "formal"
+          ],
+          "synonym": [
+            "revoke",
+            "end",
+            "recall",
+            "withdraw"
+          ],
+          "examples": [
+            {
+              "english": "The next prime minister could abrogate the treaty.",
+              "chinese": "下一任首相可能会废除这个条约。"
+            }
+          ],
+          "chineseExplanation": "废除（法令、协议等）",
+          "englishExplanation": "If someone in a position of authority abrogates something such as a law, agreement, or practice, they put an end to it.",
+          "grammar": "VERB noun"
+        }
+      ],
+      "usages": [],
+      "linkTo": []
+    }
+  },
+  {
+    "word": "abhor",
+    "llmResponse": {
+      "word": "abhor",
+      "forms": [],
+      "meaning": "vt. 憎恶",
+      "etymology": "ab-(远离)+hor(颤抖)→因恐惧而远离→憎恶",
+      "senses": [
+        {
+          "form": "VERB",
+          "tips": [
+            "formal"
+          ],
+          "synonym": [
+            "hate",
+            "loathe",
+            "despise",
+            "detest"
+          ],
+          "examples": [
+            {
+              "english": "He was a man who abhorred violence and was deeply committed to reconciliation.",
+              "chinese": "他是一个憎恶采用暴力而坚决主张和解的人。"
+            },
+            {
+              "english": "If nature abhors a vacuum, journalists abhor a transition, when there is little news to cover.",
+              "chinese": "好比自然界拒绝真空一样，新闻工作者则厌恶没有多少新闻可供报道的过渡时期。"
+            }
+          ],
+          "chineseExplanation": "憎恨，憎恶",
+          "englishExplanation": "If you abhor something, you hate it very much, especially for moral reasons.",
+          "grammar": "VERB noun"
+        }
+      ],
+      "usages": [],
+      "linkTo": []
+    }
+  },
+  {
+    "word": "abiding",
+    "llmResponse": {
+      "word": "abiding",
+      "forms": [
+        "abiding"
+      ],
+      "meaning": "adj. 持久的",
+      "etymology": "abide(持续) + -ing(形容词后缀)→持续的状态→持久的",
+      "senses": [
+        {
+          "form": "ADJ",
+          "tips": [
+            "ADJ n"
+          ],
+          "synonym": [
+            "enduring",
+            "lasting",
+            "continuing",
+            "remaining"
+          ],
+          "examples": [
+            {
+              "english": "He has a genuine and abiding love of the craft.",
+              "chinese": "他对这门手艺有着真挚持久的热爱。"
+            },
+            {
+              "english": "One of my abiding memories of him is of his singing to a small private party.",
+              "chinese": "我对他难以忘怀的一幕是他在一次小型私人派对上献歌的情景。"
+            },
+            {
+              "english": "The folk-song world was another of his abiding interests.",
+              "chinese": "民歌是他的另一个始终不渝的爱好。"
+            }
+          ],
+          "chineseExplanation": "持久的，长久的",
+          "englishExplanation": "An abiding feeling, memory, or interest is one that you have for a very long time.",
+          "grammar": "ADJ + noun"
+        }
+      ],
+      "usages": [],
+      "linkTo": []
+    }
+  },
+  {
+    "word": "abs",
+    "llmResponse": {
+      "word": "abs",
+      "forms": [
+        "abs"
+      ],
+      "meaning": "n. 腹肌",
+      "etymology": "abdominals的缩写形式",
+      "senses": [
+        {
+          "form": "N-PLURAL",
+          "tips": [
+            "informal"
+          ],
+          "synonym": [
+            "abdominals"
+          ],
+          "examples": [
+            {
+              "english": "Throughout the exercise, focus on keeping your abs tight.",
+              "chinese": "整个锻炼过程中，注意要紧绷腹肌。"
+            }
+          ],
+          "chineseExplanation": "腹肌",
+          "englishExplanation": "Abs are the same as abdominals.",
+          "grammar": ""
+        }
+      ],
+      "usages": [],
+      "linkTo": []
+    }
+  },
+  {
+    "word": "at.",
+    "llmResponse": {
+      "word": "atm",
+      "forms": [
+        "atm",
+        "atms"
+      ],
+      "meaning": "n. 大气压单位",
+      "etymology": "",
+      "senses": [
+        {
+          "form": "NOUN",
+          "tips": [],
+          "synonym": [],
+          "examples": [
+            {
+              "english": "The pressure was measured in atm.",
+              "chinese": "压力以大气压为单位测量"
+            }
+          ],
+          "chineseExplanation": "大气压单位",
+          "englishExplanation": "unit of atmospheric pressure",
+          "grammar": ""
+        }
+      ],
+      "usages": [],
+      "linkTo": []
+    }
+  },
+  {
+    "word": "abbey",
+    "llmResponse": {
+      "word": "abbey",
+      "forms": [],
+      "meaning": "n. 修道院",
+      "etymology": "",
+      "senses": [
+        {
+          "form": "N-COUNT",
+          "tips": [],
+          "synonym": [
+            "monastery",
+            "convent",
+            "priory",
+            "cloister"
+          ],
+          "examples": [
+            {
+              "english": "The medieval abbey was converted into a hotel.",
+              "chinese": "这座中世纪修道院被改造成了酒店"
+            },
+            {
+              "english": "She spent ten years living in an abbey.",
+              "chinese": "她在修道院生活了十年"
+            }
+          ],
+          "chineseExplanation": "（大）修道院",
+          "englishExplanation": "An abbey is a church with buildings attached to it in which monks or nuns live or used to live.",
+          "grammar": ""
+        }
+      ],
+      "usages": [],
+      "linkTo": []
+    }
+  },
+  {
+    "word": "abreast",
+    "llmResponse": {
+      "word": "abreast",
+      "forms": [],
+      "meaning": "adv. 并排",
+      "etymology": "",
+      "senses": [
+        {
+          "form": "ADV",
+          "tips": [
+            "ADVERB after verb"
+          ],
+          "synonym": [
+            "alongside",
+            "level",
+            "beside",
+            "in a row"
+          ],
+          "examples": [
+            {
+              "english": "The steep pavement was too narrow for them to walk abreast.",
+              "chinese": "陡坡太窄，他们没法并排走。"
+            },
+            {
+              "english": "...a group of youths riding their motorbikes four abreast.",
+              "chinese": "驾着摩托车，四个一排齐头并进的一群年轻人"
+            }
+          ],
+          "chineseExplanation": "并排，并肩（行进）",
+          "englishExplanation": "If people or things walk or move abreast, they are next to each other, side by side, and facing in the same direction.",
+          "grammar": "ADV after verb"
+        }
+      ],
+      "usages": [
+        {
+          "form": "abreast of sb./sth.",
+          "meaning": "与…并列",
+          "examples": [
+            {
+              "english": "As he drew abreast of the man he pretended to stumble.",
+              "chinese": "当他赶上那个男人时，他装出了要跌倒的样子。"
+            }
+          ]
+        },
+        {
+          "form": "keep abreast of sth.",
+          "meaning": "了解最新情况",
+          "examples": [
+            {
+              "english": "He will be keeping abreast of the news.",
+              "chinese": "他将时刻关注最新消息。"
+            },
+            {
+              "english": "We'll keep you abreast of developments.",
+              "chinese": "我们会随时告知你最新进展。"
+            }
+          ]
+        }
+      ],
+      "linkTo": []
+    }
+  },
+  {
+    "word": "absentee",
+    "llmResponse": {
+      "word": "absentee",
+      "forms": [],
+      "meaning": "n. 缺席者",
+      "etymology": "",
+      "senses": [
+        {
+          "form": "N-COUNT",
+          "tips": [],
+          "synonym": [
+            "nonattender",
+            "stay-at-home",
+            "truant",
+            "no-show"
+          ],
+          "examples": [],
+          "chineseExplanation": "（应到而未到的）不在者，缺席者",
+          "englishExplanation": "An absentee is a person who is expected to be in a particular place but who is not there.",
+          "grammar": ""
+        },
+        {
+          "form": "ADJ",
+          "tips": [
+            "ADJ n"
+          ],
+          "synonym": [],
+          "examples": [
+            {
+              "english": "Absentee fathers will be forced to pay child maintenance.",
+              "chinese": "缺席的父亲将会被强制要求支付孩子的抚养费。"
+            },
+            {
+              "english": "...an absentee landlord.",
+              "chinese": "在外业主"
+            }
+          ],
+          "chineseExplanation": "不在的;缺席的",
+          "englishExplanation": "Absentee is used to describe someone who is not there to do a particular job in person.",
+          "grammar": "ADJ + noun"
+        },
+        {
+          "form": "ADJ",
+          "tips": [
+            "ADJ n",
+            "US"
+          ],
+          "synonym": [],
+          "examples": [
+            {
+              "english": "He has already voted by absentee ballot.",
+              "chinese": "他已进行了缺席投票。"
+            },
+            {
+              "english": "The deadline for absentee voting in was Saturday.",
+              "chinese": "缺席投票的最后期限是星期六。"
+            }
+          ],
+          "chineseExplanation": "缺席的（指美国因故预先投票的选票或选民）",
+          "englishExplanation": "In elections in the United States, if you vote by absentee ballot or if you are an absentee voter, you vote in advance because you will be away.",
+          "grammar": "ADJ + noun"
+        }
+      ],
+      "usages": [],
+      "linkTo": []
+    }
+  },
+  {
+    "word": "abdominals",
+    "llmResponse": {
+      "word": "abdominals",
+      "forms": [],
+      "meaning": "n. 腹肌",
+      "etymology": "",
+      "senses": [
+        {
+          "form": "N-PLURAL",
+          "tips": [],
+          "synonym": [],
+          "examples": [
+            {
+              "english": "You can refer to your abdominal muscles as your abdominals when you are talking about exercise.",
+              "chinese": "谈论锻炼时，你可以用abdominals指代你的腹肌"
+            }
+          ],
+          "chineseExplanation": "腹肌",
+          "englishExplanation": "You can refer to your abdominal muscles as your abdominals when you are talking about exercise.",
+          "grammar": ""
+        }
+      ],
+      "usages": [],
+      "linkTo": []
+    }
+  },
+  {
+    "word": "ABCs",
+    "llmResponse": {
+      "word": "ABC's",
+      "forms": [
+        "ABC's"
+      ],
+      "meaning": "n. 基础；字母表",
+      "etymology": "",
+      "senses": [
+        {
+          "form": "N-PLURAL",
+          "tips": [
+            "N of n"
+          ],
+          "synonym": [],
+          "examples": [
+            {
+              "english": "...the ABC's of cooking.",
+              "chinese": "...烹饪的基础。"
+            }
+          ],
+          "chineseExplanation": "基础",
+          "englishExplanation": "The ABC's of a subject or activity are the parts of it that you have to learn first because they are the most important and basic.",
+          "grammar": "N of n"
+        },
+        {
+          "form": "N-PLURAL",
+          "tips": [],
+          "synonym": [],
+          "examples": [],
+          "chineseExplanation": "字母表",
+          "englishExplanation": "Children who have learned their ABCs have learned to recognize, write, or say the alphabet.",
+          "grammar": ""
+        }
+      ],
+      "usages": [],
+      "linkTo": []
+    }
+  },
+  {
+    "word": "abhorrent",
+    "llmResponse": {
+      "word": "abhorrent",
+      "forms": [],
+      "meaning": "adj. 令人憎恶的",
+      "etymology": "abhor(憎恶)+-ent(形容词后缀)→令人憎恶的",
+      "senses": [
+        {
+          "form": "ADJ",
+          "tips": [
+            "usually verb-link ADJ",
+            "formal"
+          ],
+          "synonym": [
+            "hateful",
+            "hated",
+            "offensive",
+            "disgusting"
+          ],
+          "examples": [
+            {
+              "english": "Racial discrimination is abhorrent to my council and our staff.",
+              "chinese": "我的顾问班子和全体工作人员都对种族歧视深恶痛绝。"
+            },
+            {
+              "english": "There are many people who still find the act of abortion abhorrent.",
+              "chinese": "仍有很多人对堕胎行为表示厌恶。"
+            }
+          ],
+          "chineseExplanation": "令人憎恶的",
+          "englishExplanation": "If something is abhorrent to you, you hate it very much or consider it completely unacceptable.",
+          "grammar": "ADJ + to"
+        }
+      ],
+      "usages": [],
+      "linkTo": []
+    }
+  },
+  {
+    "word": "aberration",
+    "llmResponse": {
+      "word": "aberration",
+      "forms": [],
+      "meaning": "n. 异常",
+      "etymology": "",
+      "senses": [
+        {
+          "form": "N-VAR",
+          "tips": [
+            "formal"
+          ],
+          "synonym": [
+            "anomaly",
+            "exception",
+            "defect",
+            "abnormality"
+          ],
+          "examples": [
+            {
+              "english": "It became very clear that the incident was not just an aberration, it was not just a single incident.",
+              "chinese": "事实已经很清楚，这件事不是偶发的，它并不是一起孤立的事件。"
+            }
+          ],
+          "chineseExplanation": "偶发事件;非典型行为",
+          "englishExplanation": "An aberration is an incident or way of behaving that is not typical.",
+          "grammar": ""
+        },
+        {
+          "form": "N-VAR",
+          "tips": [
+            "formal, disapproval"
+          ],
+          "synonym": [
+            "oddity",
+            "abnormality",
+            "rarity",
+            "eccentricity"
+          ],
+          "examples": [
+            {
+              "english": "Single people are treated as an aberration and made to pay a supplement.",
+              "chinese": "独身者被当成异类，而且要付一笔额外的费用。"
+            },
+            {
+              "english": "...sexual aberration.",
+              "chinese": "性变态"
+            }
+          ],
+          "chineseExplanation": "不正常的怪人；异常行为",
+          "englishExplanation": "If someone considers a person or their behaviour to be an aberration, they think that they are strange and not socially acceptable.",
+          "grammar": ""
+        }
+      ],
+      "usages": [],
+      "linkTo": []
+    }
+  },
+  {
+    "word": "abscond",
+    "llmResponse": {
+      "word": "abscond",
+      "forms": [
+        "absconds",
+        "absconding",
+        "absconded"
+      ],
+      "meaning": "v. 逃跑",
+      "etymology": "拉丁语abscondere(隐藏)→脱离隐藏→逃跑",
+      "senses": [
+        {
+          "form": "VERB",
+          "tips": [
+            "formal"
+          ],
+          "synonym": [
+            "escape",
+            "flee",
+            "get away",
+            "bolt"
+          ],
+          "examples": [
+            {
+              "english": "He was ordered to appear the following day, but absconded.",
+              "chinese": "他被传唤于第二天出庭，可是他逃跑了。"
+            },
+            {
+              "english": "A dozen inmates have absconded from Forest Jail in the past year.",
+              "chinese": "去年共有12名犯人从福雷斯特监狱逃脱。"
+            }
+          ],
+          "chineseExplanation": "（从监狱等处）逃走",
+          "englishExplanation": "If someone absconds from somewhere such as a prison, they escape from it or leave it without permission.",
+          "grammar": "VERB + from"
+        },
+        {
+          "form": "VERB",
+          "tips": [
+            "formal"
+          ],
+          "synonym": [],
+          "examples": [
+            {
+              "english": "Unfortunately, his partners were crooks and absconded with the funds.",
+              "chinese": "不幸的是，他的合伙人都是些骗子，已卷款逃之夭夭了。"
+            }
+          ],
+          "chineseExplanation": "（携…）潜逃",
+          "englishExplanation": "If someone absconds with something, they leave and take it with them, although it does not belong to them.",
+          "grammar": "VERB + with"
+        }
+      ],
+      "usages": [
+        {
+          "form": "abscond from sth.",
+          "meaning": "从某处逃脱",
+          "examples": [
+            {
+              "english": "The suspect absconded from police custody during transport.",
+              "chinese": "嫌疑人在押送过程中从警方拘留逃脱。"
+            }
+          ]
+        },
+        {
+          "form": "abscond with sth.",
+          "meaning": "携某物潜逃",
+          "examples": [
+            {
+              "english": "The accountant absconded with company funds before the audit.",
+              "chinese": "会计在审计前携公司资金潜逃。"
+            }
+          ]
+        }
+      ],
+      "linkTo": []
+    }
+  },
+  {
+    "word": "abject",
+    "llmResponse": {
+      "word": "abject",
+      "forms": [],
+      "meaning": "adj. 凄惨的",
+      "etymology": "",
+      "senses": [
+        {
+          "form": "ADJ",
+          "tips": [
+            "usually ADJ n",
+            "emphasis"
+          ],
+          "synonym": [
+            "wretched",
+            "miserable",
+            "hopeless",
+            "dismal"
+          ],
+          "examples": [
+            {
+              "english": "Both of them died in abject poverty.",
+              "chinese": "他们两人都于穷困潦倒中死去。"
+            },
+            {
+              "english": "This scheme was an abject failure.",
+              "chinese": "这项计划彻底失败了。"
+            }
+          ],
+          "chineseExplanation": "凄惨的;糟透的;蹩脚的",
+          "englishExplanation": "You use abject to emphasize that a situation or quality is extremely bad.",
+          "grammar": "ADJ + noun"
+        },
+        {
+          "form": "ADJ",
+          "tips": [
+            "literary"
+          ],
+          "synonym": [
+            "servile",
+            "humble",
+            "humiliating",
+            "craven"
+          ],
+          "examples": [
+            {
+              "english": "He sounded abject and eager to please.",
+              "chinese": "他低声下气，急于讨好别人。"
+            },
+            {
+              "english": "He looked back at the abject, silent girl and repeated his question.",
+              "chinese": "他转过头看着这个噤若寒蝉的女孩，又重复了一遍他的问题。"
+            }
+          ],
+          "chineseExplanation": "卑躬屈节的；自卑的；怯懦的",
+          "englishExplanation": "If you describe someone as abject, you think they have no courage or respect for themselves.",
+          "grammar": "ADJ + noun"
+        }
+      ],
+      "usages": [],
+      "linkTo": []
+    }
+  },
+  {
+    "word": "abbot",
+    "llmResponse": {
+      "word": "abbot",
+      "forms": [
+        "abbots"
+      ],
+      "meaning": "n. 男修道院院长",
+      "etymology": "",
+      "senses": [
+        {
+          "form": "N-COUNT",
+          "tips": [],
+          "synonym": [],
+          "examples": [
+            {
+              "english": "The abbot led the morning prayers in the monastery.",
+              "chinese": "修道院院长带领僧侣们进行晨祷。"
+            }
+          ],
+          "chineseExplanation": "男修道院院长；大寺院男住持",
+          "englishExplanation": "An abbot is the monk who is in charge of the other monks in a monastery or abbey.",
+          "grammar": ""
+        }
+      ],
+      "usages": [],
+      "linkTo": []
+    }
+  },
+  {
+    "word": "abdicate",
+    "llmResponse": {
+      "word": "abdicate",
+      "forms": [],
+      "meaning": "v. 放弃",
+      "etymology": "",
+      "senses": [
+        {
+          "form": "VERB",
+          "tips": [
+            "Also VERB n"
+          ],
+          "synonym": [
+            "resign",
+            "retire",
+            "quit",
+            "step down"
+          ],
+          "examples": [
+            {
+              "english": "The last French king was Louis Philippe, who abdicated in 1848.",
+              "chinese": "法国末代国王是1848年逊位的路易·菲力普。"
+            }
+          ],
+          "chineseExplanation": "退位;逊位",
+          "englishExplanation": "If a king or queen abdicates, he or she gives up being king or queen.",
+          "grammar": "VERB"
+        },
+        {
+          "form": "VERB",
+          "tips": [
+            "formal, disapproval"
+          ],
+          "synonym": [
+            "renounce",
+            "give up",
+            "abandon",
+            "surrender"
+          ],
+          "examples": [
+            {
+              "english": "Many parents simply abdicate all responsibility for their children.",
+              "chinese": "许多父母对孩子简直是完全撒手不管。"
+            }
+          ],
+          "chineseExplanation": "放弃（责任）；失（职）",
+          "englishExplanation": "If you say that someone has abdicated responsibility for something, you disapprove of them because they have refused to accept responsibility for it any longer.",
+          "grammar": "VERB noun"
+        }
+      ],
+      "usages": [],
+      "linkTo": []
+    }
+  },
+  {
+    "word": "abduct",
+    "llmResponse": {
+      "word": "abduct",
+      "forms": [],
+      "meaning": "vt. 绑架",
+      "etymology": "ab-(离开)+duct(引导)→强行带走→绑架",
+      "senses": [
+        {
+          "form": "VERB",
+          "tips": [],
+          "synonym": [
+            "kidnap",
+            "seize",
+            "carry off",
+            "run off with"
+          ],
+          "examples": [
+            {
+              "english": "His car was held up and he was abducted by four gunmen.",
+              "chinese": "他的车遭遇拦劫，随后他被4名持枪歹徒劫持。"
+            },
+            {
+              "english": "She was charged with abducting a six-month-old child.",
+              "chinese": "她被控诱拐一个6个月大的孩子。"
+            }
+          ],
+          "chineseExplanation": "诱拐；劫持；绑架",
+          "englishExplanation": "If someone is abducted by another person, he or she is taken away illegally, usually using force.",
+          "grammar": "VERB noun"
+        }
+      ],
+      "usages": [],
+      "linkTo": []
+    }
+  },
+  {
+    "word": "abrasive",
+    "llmResponse": {
+      "word": "abrasive",
+      "forms": [
+        "abrasive",
+        "abrasives"
+      ],
+      "meaning": "adj. 粗鲁的；研磨的",
+      "etymology": "abrade(磨损)+-ive(形容词后缀)→具有磨损特性的→粗鲁的/研磨的",
+      "senses": [
+        {
+          "form": "ADJ",
+          "tips": [],
+          "synonym": [
+            "harsh",
+            "cutting",
+            "biting",
+            "tough"
+          ],
+          "examples": [
+            {
+              "english": "His abrasive manner has won him an unenviable notoriety.",
+              "chinese": "他生硬粗暴的态度让他声名狼藉。"
+            },
+            {
+              "english": "Pamela was unrepentant about her strong language and abrasive remarks.",
+              "chinese": "对于自己的激烈言辞和恶语相向，帕梅拉并无悔意。"
+            }
+          ],
+          "chineseExplanation": "粗鲁的",
+          "englishExplanation": "Someone who has an abrasive manner is unkind and rude.",
+          "grammar": "ADJ manner"
+        },
+        {
+          "form": "ADJ",
+          "tips": [],
+          "synonym": [
+            "rough",
+            "scratching",
+            "scraping",
+            "grating"
+          ],
+          "examples": [
+            {
+              "english": "...a new all-purpose, non-abrasive cleaner.",
+              "chinese": "多用途的非磨砂性新型清洁剂"
+            }
+          ],
+          "chineseExplanation": "研磨的",
+          "englishExplanation": "An abrasive substance is rough and can be used to clean hard surfaces.",
+          "grammar": "ADJ substance"
+        },
+        {
+          "form": "NOUN",
+          "tips": [],
+          "synonym": [
+            "rough",
+            "scratching",
+            "scraping",
+            "grating"
+          ],
+          "examples": [
+            {
+              "english": "Avoid abrasives, which can damage the tiles.",
+              "chinese": "避免使用磨蚀剂，以免损坏瓷砖。"
+            }
+          ],
+          "chineseExplanation": "磨料",
+          "englishExplanation": "An abrasive is a substance that is rough and can be used to clean hard surfaces.",
+          "grammar": "N-MASS"
+        }
+      ],
+      "usages": [],
+      "linkTo": []
+    }
+  },
+  {
+    "word": "abet",
+    "llmResponse": {
+      "word": "abet",
+      "forms": [],
+      "meaning": "vt. 教唆",
+      "etymology": "",
+      "senses": [
+        {
+          "form": "VERB",
+          "tips": [
+            "law, formal"
+          ],
+          "synonym": [
+            "help",
+            "aid",
+            "encourage",
+            "sanction"
+          ],
+          "examples": [
+            {
+              "english": "His wife was sentenced to seven years imprisonment for aiding and abetting him.",
+              "chinese": "他的妻子作为他的从犯被判入狱7年。"
+            },
+            {
+              "english": "We shall strike hard, without flinching, at terrorists and those who abet them.",
+              "chinese": "我们要毫不退缩地严厉打击恐怖分子及其帮凶。"
+            }
+          ],
+          "chineseExplanation": "教唆犯罪",
+          "englishExplanation": "If one person abets another, they help or encourage them to do something criminal or wrong.",
+          "grammar": "VERB noun"
+        },
+        {
+          "form": "VERB",
+          "tips": [
+            "journalism, or formal, disapproval"
+          ],
+          "synonym": [
+            "encourage",
+            "further",
+            "forward",
+            "promote"
+          ],
+          "examples": [
+            {
+              "english": "The media have also abetted the feeling of unreality.",
+              "chinese": "媒体也在一旁对这种非现实感推波助澜。"
+            }
+          ],
+          "chineseExplanation": "煽动坏事",
+          "englishExplanation": "To abet something, especially something bad or undesirable, means to make it possible.",
+          "grammar": "VERB noun"
+        }
+      ],
+      "usages": [],
+      "linkTo": []
+    }
+  },
+  {
+    "word": "abide",
+    "llmResponse": {
+      "word": "abide",
+      "forms": [],
+      "meaning": "vt. 忍受",
+      "etymology": "",
+      "senses": [
+        {
+          "form": "PHRASE",
+          "tips": [],
+          "synonym": [],
+          "examples": [
+            {
+              "english": "I can't abide people who can't make up their minds.",
+              "chinese": "我受不了优柔寡断的人。"
+            },
+            {
+              "english": "She couldn't abide his success.",
+              "chinese": "她见不得他成功。"
+            }
+          ],
+          "chineseExplanation": "难以忍受；无法容忍",
+          "englishExplanation": "If you can't abide someone or something, you dislike them very much.",
+          "grammar": ""
+        }
+      ],
+      "usages": [
+        {
+          "form": "abide by",
+          "meaning": "遵守",
+          "examples": [
+            {
+              "english": "You must abide by the rules.",
+              "chinese": "你必须遵守规则。"
+            }
+          ]
+        }
+      ],
+      "linkTo": []
+    }
+  },
+  {
+    "word": "abatement",
+    "llmResponse": {
+      "word": "abatement",
+      "forms": [],
+      "meaning": "n. 减弱",
+      "etymology": "",
+      "senses": [
+        {
+          "form": "N-UNCOUNT",
+          "tips": [
+            "oft a NOUN",
+            "formal"
+          ],
+          "synonym": [],
+          "examples": [
+            {
+              "english": "...the abatement of carbon dioxide emissions.",
+              "chinese": "二氧化碳排放的减少"
+            },
+            {
+              "english": "...noise abatement.",
+              "chinese": "噪声消退"
+            }
+          ],
+          "chineseExplanation": "减弱;减轻;减少",
+          "englishExplanation": "Abatement means a reduction in the strength or power of something or the reduction of it.",
+          "grammar": "+ of"
+        }
+      ],
+      "usages": [],
+      "linkTo": []
+    }
+  },
+  {
+    "word": "abbess",
+    "llmResponse": {
+      "word": "abbess",
+      "forms": [
+        "abbesses"
+      ],
+      "meaning": "n. 女修道院院长",
+      "etymology": "abb(修道院) + -ess(女性)→修道院女性主管",
+      "senses": [
+        {
+          "form": "N-COUNT",
+          "tips": [],
+          "synonym": [],
+          "examples": [
+            {
+              "english": "The abbess led the morning prayers.",
+              "chinese": "女修道院院长主持了晨祷。"
+            }
+          ],
+          "chineseExplanation": "女修道院院长",
+          "englishExplanation": "An abbess is the nun who is in charge of the other nuns in a convent.",
+          "grammar": ""
+        }
+      ],
+      "usages": [],
+      "linkTo": []
+    }
+  },
+  {
+    "word": "ABC",
+    "llmResponse": {
+      "word": "ABC",
+      "forms": [],
+      "meaning": "n. 基础知识；字母表",
+      "etymology": "",
+      "senses": [
+        {
+          "form": "N-SING",
+          "tips": [],
+          "synonym": [
+            "basics",
+            "principles",
+            "elements",
+            "essentials"
+          ],
+          "examples": [
+            {
+              "english": "...the ABC of Marxism.",
+              "chinese": "马克思主义的基本内容"
+            }
+          ],
+          "chineseExplanation": "（学科等的）基础知识，入门",
+          "englishExplanation": "The ABC of a subject or activity is the parts of it that you have to learn first because they are the most important and basic.",
+          "grammar": "+ of"
+        },
+        {
+          "form": "N-COUNT",
+          "tips": [
+            "informal"
+          ],
+          "synonym": [],
+          "examples": [],
+          "chineseExplanation": "字母表（儿童识字、写字、拼词用的全部字母）",
+          "englishExplanation": "Children who have learned their ABC or their ABCs have learned to recognize, write, or say the alphabet.",
+          "grammar": ""
+        }
+      ],
+      "usages": [],
+      "linkTo": []
+    }
+  },
+  {
+    "word": "aberrant",
+    "llmResponse": {
+      "word": "aberrant",
+      "forms": [],
+      "meaning": "adj. 异常的",
+      "etymology": "ab(离开)+err(漫游)+ant(形容词后缀)→偏离正常轨道→异常的",
+      "senses": [
+        {
+          "form": "ADJ",
+          "tips": [
+            "usually ADJ n",
+            "formal"
+          ],
+          "synonym": [],
+          "examples": [
+            {
+              "english": "Ian's rages and aberrant behavior worsened.",
+              "chinese": "伊恩的怒气越来越大，反常行为也愈发恶劣。"
+            }
+          ],
+          "chineseExplanation": "异常的",
+          "englishExplanation": "Aberrant means unusual and not socially acceptable.",
+          "grammar": "ADJ + noun"
+        }
+      ],
+      "usages": [],
+      "linkTo": []
+    }
+  },
+  {
+    "word": "abdominal",
+    "llmResponse": {
+      "word": "abdominal",
+      "forms": [],
+      "meaning": "adj. 腹（部）的",
+      "etymology": "",
+      "senses": [
+        {
+          "form": "ADJ",
+          "tips": [
+            "ADJ n",
+            "formal"
+          ],
+          "synonym": [
+            "gastric",
+            "intestinal",
+            "visceral",
+            "stomachic"
+          ],
+          "examples": [
+            {
+              "english": "vomiting, diarrhoea and abdominal pain",
+              "chinese": "呕吐、腹泻和腹痛"
+            }
+          ],
+          "chineseExplanation": "腹（部）的",
+          "englishExplanation": "Abdominal is used to describe something that is situated in the abdomen or forms part of it.",
+          "grammar": "ADJ + noun"
+        }
+      ],
+      "usages": [],
+      "linkTo": []
+    }
+  },
+  {
+    "word": "abhorrence",
+    "llmResponse": {
+      "word": "abhorrence",
+      "forms": [],
+      "meaning": "n. 憎恶",
+      "etymology": "",
+      "senses": [
+        {
+          "form": "N-UNCOUNT",
+          "tips": [
+            "oft poss NOUN",
+            "formal"
+          ],
+          "synonym": [
+            "hatred",
+            "hate",
+            "horror",
+            "disgust"
+          ],
+          "examples": [
+            {
+              "english": "They are anxious to show their abhorrence of racism.",
+              "chinese": "他们急切地想要表明自己对种族主义的憎恨。"
+            }
+          ],
+          "chineseExplanation": "憎恨；憎恶",
+          "englishExplanation": "Some-one's abhorrence of something is their strong hatred of it.",
+          "grammar": "+ of"
+        }
+      ],
+      "usages": [],
+      "linkTo": []
+    }
+  },
+  {
+    "word": "abilities",
+    "llmResponse": {
+      "word": "-ability",
+      "forms": [],
+      "meaning": "suf. 性质",
+      "etymology": "-able(能...的) + -ity(性质)→替代-able构成名词→表状态/性质",
+      "senses": [
+        {
+          "form": "SUFFIX",
+          "tips": [],
+          "synonym": [],
+          "examples": [
+            {
+              "english": "...the desirability of global co-operation.",
+              "chinese": "全球合作的可取性"
+            },
+            {
+              "english": "No one ever questioned her capability.",
+              "chinese": "从来没有人质疑她的能力。"
+            }
+          ],
+          "chineseExplanation": "（替代-able加在形容词尾构成名词）表示“状态”，“性质”",
+          "englishExplanation": "-ability replaces '-able' at the end of adjectives to form nouns. Nouns formed in this way refer to the state or quality described by the adjectives.",
+          "grammar": ""
+        }
+      ],
+      "usages": [],
+      "linkTo": []
+    }
+  },
+  {
+    "word": "abscess",
+    "llmResponse": {
+      "word": "abscess",
+      "forms": [],
+      "meaning": "n. 脓肿",
+      "etymology": "",
+      "senses": [
+        {
+          "form": "N-COUNT",
+          "tips": [],
+          "synonym": [
+            "boil",
+            "infection",
+            "swelling",
+            "blister"
+          ],
+          "examples": [
+            {
+              "english": "The doctor drained the abscess to relieve the pain.",
+              "chinese": "医生排出了脓肿以缓解疼痛。"
+            }
+          ],
+          "chineseExplanation": "脓肿",
+          "englishExplanation": "An abscess is a painful swelling containing pus.",
+          "grammar": ""
+        }
+      ],
+      "usages": [],
+      "linkTo": []
+    }
+  },
+  {
+    "word": "absenteeism",
+    "llmResponse": {
+      "word": "absenteeism",
+      "forms": [],
+      "meaning": "n. 旷工",
+      "etymology": "",
+      "senses": [
+        {
+          "form": "N-UNCOUNT",
+          "tips": [],
+          "synonym": [],
+          "examples": [
+            {
+              "english": "...the high rate of absenteeism.",
+              "chinese": "高旷课率"
+            }
+          ],
+          "chineseExplanation": "（通常指无正当理由、经常性的）旷工，旷课",
+          "englishExplanation": "Absenteeism is the fact or habit of frequently being away from work or school, usually without a good reason.",
+          "grammar": ""
+        }
+      ],
+      "usages": [],
+      "linkTo": []
+    }
+  },
+  {
+    "word": "ablutions",
+    "llmResponse": {
+      "word": "ablutions",
+      "forms": [
+        "ablution"
+      ],
+      "meaning": "n. 沐浴",
+      "etymology": "abluere(洗)+ -tion(行为)→洗涤行为→沐浴",
+      "senses": [
+        {
+          "form": "N-PLURAL",
+          "tips": [
+            "oft poss NOUN",
+            "formal, or humorous"
+          ],
+          "synonym": [],
+          "examples": [
+            {
+              "english": "He performed his morning ablutions.",
+              "chinese": "他进行了晨间沐浴。"
+            }
+          ],
+          "chineseExplanation": "沐浴",
+          "englishExplanation": "Someone's ablutions are all the activities that are involved in washing himself or herself.",
+          "grammar": "poss NOUN"
+        }
+      ],
+      "usages": [],
+      "linkTo": []
+    }
+  },
+  {
+    "word": "abridged",
+    "llmResponse": {
+      "word": "",
+      "forms": [],
+      "meaning": "adj. 节略的",
+      "etymology": "",
+      "senses": [
+        {
+          "form": "ADJ",
+          "tips": [
+            "usually ADJ n"
+          ],
+          "synonym": [
+            "shortened",
+            "shorter",
+            "reduced",
+            "brief"
+          ],
+          "examples": [
+            {
+              "english": "This is an abridged version of her new novel 'The Queen and I'.",
+              "chinese": "这是她的新小说《我与女王》的删节本。"
+            }
+          ],
+          "chineseExplanation": "节略的；删节的",
+          "englishExplanation": "An abridged book or play has been made shorter by removing some parts of it.",
+          "grammar": "ADJ + noun"
+        }
+      ],
+      "usages": [],
+      "linkTo": []
+    }
+  },
+  {
+    "word": "abbreviate",
+    "llmResponse": {
+      "word": "abbreviate",
+      "forms": [],
+      "meaning": "vt. 缩写",
+      "etymology": "ab-(加强)+brev(短)+-ate(动词后缀)→缩短→缩写",
+      "senses": [
+        {
+          "form": "VERB",
+          "tips": [
+            "Also VERB n"
+          ],
+          "synonym": [
+            "shorten",
+            "reduce",
+            "contract",
+            "trim"
+          ],
+          "examples": [
+            {
+              "english": "He abbreviated his first name to Alec.",
+              "chinese": "他将自己的名字缩写为亚历克。"
+            }
+          ],
+          "chineseExplanation": "缩写",
+          "englishExplanation": "If you abbreviate something, especially a word or a piece of writing, you make it shorter.",
+          "grammar": "VERB noun + to"
+        }
+      ],
+      "usages": [],
+      "linkTo": []
+    }
+  },
+  {
+    "word": "ablaze",
+    "llmResponse": {
+      "word": "ablaze",
+      "forms": [
+        "ablaze"
+      ],
+      "meaning": "adj. 燃烧的；闪耀的；激动的",
+      "etymology": "a-(加强)+blaze(火焰)→燃烧状态",
+      "senses": [
+        {
+          "form": "ADJ",
+          "tips": [
+            "verb-link ADJ"
+          ],
+          "synonym": [
+            "on fire",
+            "lighted",
+            "burning",
+            "flaming"
+          ],
+          "examples": [
+            {
+              "english": "Shops, houses, and vehicles were set ablaze.",
+              "chinese": "店铺、房子和车辆全都陷于火海。"
+            }
+          ],
+          "chineseExplanation": "炽燃的",
+          "englishExplanation": "Something that is ablaze is burning very fiercely.",
+          "grammar": ""
+        },
+        {
+          "form": "ADJ",
+          "tips": [
+            "verb-link ADJ"
+          ],
+          "synonym": [
+            "bright",
+            "brilliant",
+            "flashing",
+            "glowing"
+          ],
+          "examples": [
+            {
+              "english": "The chamber was ablaze with light.",
+              "chinese": "会议厅里灯火辉煌。"
+            },
+            {
+              "english": "In spring, the valleys are ablaze with colour.",
+              "chinese": "春天，山谷里春色绚烂。"
+            }
+          ],
+          "chineseExplanation": "闪耀的",
+          "englishExplanation": "If a place is ablaze with lights or colours, it is very bright because of them.",
+          "grammar": "+ with"
+        },
+        {
+          "form": "ADJ",
+          "tips": [
+            "verb-link ADJ, oft ADJ with n"
+          ],
+          "synonym": [
+            "passionate",
+            "excited",
+            "stimulated",
+            "fierce"
+          ],
+          "examples": [
+            {
+              "english": "He was ablaze with enthusiasm.",
+              "chinese": "他热情洋溢。"
+            },
+            {
+              "english": "Her voice is passionate. Her eyes are ablaze.",
+              "chinese": "她声音激昂，目光如火。"
+            }
+          ],
+          "chineseExplanation": "激动的",
+          "englishExplanation": "If someone is ablaze, or if their eyes are ablaze, their expression shows that they are feeling a strong emotion, such as great excitement or anger.",
+          "grammar": ""
+        }
+      ],
+      "usages": [],
+      "linkTo": []
+    }
+  },
+  {
+    "word": "abideby",
+    "llmResponse": {
+      "word": "abide",
+      "forms": [
+        "abides",
+        "abiding",
+        "abided"
+      ],
+      "meaning": "v. 遵守",
+      "etymology": "",
+      "senses": [
+        {
+          "form": "VERB",
+          "tips": [],
+          "synonym": [
+            "obey",
+            "follow",
+            "agree to",
+            "carry out"
+          ],
+          "examples": [
+            {
+              "english": "They have got to abide by the rules.",
+              "chinese": "他们必须遵守规则。"
+            }
+          ],
+          "chineseExplanation": "遵守",
+          "englishExplanation": "If you abide by a law, agreement, or decision, you do what it says you should do.",
+          "grammar": "VERB noun"
+        }
+      ],
+      "usages": [
+        {
+          "form": "abide by sth.",
+          "meaning": "遵守某物",
+          "examples": [
+            {
+              "english": "They have got to abide by the rules.",
+              "chinese": "他们必须遵守规则。"
+            }
+          ]
+        }
+      ],
+      "linkTo": []
+    }
+  },
+  {
+    "word": "abroad",
+    "llmResponse": {
+      "word": "abroad",
+      "forms": [
+        "abroad"
+      ],
+      "meaning": "adv. 在国外",
+      "etymology": "",
+      "senses": [
+        {
+          "form": "ADV",
+          "tips": [
+            "ADVERB after verb",
+            "n ADVERB",
+            "be ADVERB",
+            "from ADVERB"
+          ],
+          "synonym": [
+            "overseas",
+            "out of the country",
+            "beyond the sea",
+            "in foreign lands"
+          ],
+          "examples": [
+            {
+              "english": "I would love to go abroad this year, perhaps to the South of France.",
+              "chinese": "我今年很想出国，可能是去法国南部。"
+            },
+            {
+              "english": "...public opposition here and abroad.",
+              "chinese": "国内外公众的反对"
+            },
+            {
+              "english": "He will stand in for Mr Goh when he is abroad.",
+              "chinese": "吴先生出国时由他代替。"
+            },
+            {
+              "english": "About 65 per cent of its sales come from abroad.",
+              "chinese": "大约65%的销量来自国外。"
+            }
+          ],
+          "chineseExplanation": "到国外；在国外",
+          "englishExplanation": "If you go abroad, you go to a foreign country, usually one which is separated from the country where you live by an ocean or a sea.",
+          "grammar": ""
+        },
+        {
+          "form": "ADV",
+          "tips": [
+            "n ADVERB"
+          ],
+          "synonym": [
+            "about",
+            "out",
+            "away",
+            "without"
+          ],
+          "examples": [
+            {
+              "english": "There'll still be a feeling abroad that this change has to be recognised.",
+              "chinese": "人们还会普遍觉得这项变革早晚得接受。"
+            }
+          ],
+          "chineseExplanation": "在四下流传;广为流传地",
+          "englishExplanation": "If there is a story or feeling abroad, people generally know about it or feel it.",
+          "grammar": ""
+        }
+      ],
+      "usages": [],
+      "linkTo": []
+    }
+  },
+  {
+    "word": "abeyant",
+    "llmResponse": {
+      "word": "abeyance",
+      "forms": [],
+      "meaning": "n. 搁置",
+      "etymology": "",
+      "senses": [
+        {
+          "form": "PHRASE",
+          "tips": [
+            "formal"
+          ],
+          "synonym": [
+            "shelved",
+            "pending",
+            "on ice",
+            "in cold storage"
+          ],
+          "examples": [
+            {
+              "english": "The threat is likely to remain in abeyance until next year's meeting in Reykjavik.",
+              "chinese": "这一威胁很可能会一直存在下去，直至明年的雷克雅未克会议。"
+            },
+            {
+              "english": "The matter was left in abeyance until Haig saw French.",
+              "chinese": "事情被搁置了起来，直到黑格见到法国人。"
+            }
+          ],
+          "chineseExplanation": "搁置;悬而未决;暂停使用",
+          "englishExplanation": "If something is in abeyance, it is not operating or being used at the present time.",
+          "grammar": ""
+        }
+      ],
+      "usages": [],
+      "linkTo": []
+    }
+  },
+  {
+    "word": "abrupt",
+    "llmResponse": {
+      "word": "abrupt",
+      "forms": [],
+      "meaning": "adj. 突然的",
+      "etymology": "",
+      "senses": [
+        {
+          "form": "ADJ",
+          "tips": [],
+          "synonym": [
+            "sudden",
+            "unexpected",
+            "hurried",
+            "rapid"
+          ],
+          "examples": [
+            {
+              "english": "Rosie's idyllic world came to an abrupt end when her parents' marriage broke up.",
+              "chinese": "父母婚姻的破裂使得罗茜田园诗般美好的世界陡然画上了句号。"
+            },
+            {
+              "english": "The recession brought an abrupt halt to this happiness.",
+              "chinese": "经济衰退让这幸福戛然而止。"
+            },
+            {
+              "english": "His abrupt departure is bound to raise questions.",
+              "chinese": "他的拂袖而去必然会招来很多疑问。"
+            }
+          ],
+          "chineseExplanation": "突然的",
+          "englishExplanation": "An abrupt change or action is very sudden, often in a way which is unpleasant.",
+          "grammar": ""
+        },
+        {
+          "form": "ADJ",
+          "tips": [],
+          "synonym": [
+            "curt",
+            "direct",
+            "brief",
+            "sharp"
+          ],
+          "examples": [
+            {
+              "english": "He was abrupt to the point of rudeness.",
+              "chinese": "他的唐突已到了无礼的地步。"
+            },
+            {
+              "english": "Cross was a little taken aback by her abrupt manner.",
+              "chinese": "她鲁莽的态度让克罗斯感到有点吃惊。"
+            }
+          ],
+          "chineseExplanation": "粗鲁的",
+          "englishExplanation": "Someone who is abrupt speaks in a rather rude, unfriendly way.",
+          "grammar": ""
+        }
+      ],
+      "usages": [],
+      "linkTo": []
+    }
+  },
+  {
+    "word": "abjure",
+    "llmResponse": {
+      "word": "abjure",
+      "forms": [],
+      "meaning": "vt. 发誓弃绝",
+      "etymology": "",
+      "senses": [
+        {
+          "form": "VERB",
+          "tips": [
+            "formal"
+          ],
+          "synonym": [
+            "give up",
+            "deny",
+            "reject"
+          ],
+          "examples": [
+            {
+              "english": "He abjured the Protestant faith and became King in 1594.",
+              "chinese": "他放弃了新教信仰，于1594年登基为王。"
+            },
+            {
+              "english": "...a formal statement abjuring military action.",
+              "chinese": "表示放弃军事行动的正式声明"
+            }
+          ],
+          "chineseExplanation": "发誓弃绝",
+          "englishExplanation": "If you abjure something such as a belief or way of life, you state publicly that you will give it up or that you reject it.",
+          "grammar": "VERB noun"
+        }
+      ],
+      "usages": [],
+      "linkTo": []
+    }
+  },
+  {
+    "word": "absentia",
+    "llmResponse": {
+      "word": "",
+      "forms": [],
+      "meaning": "PHRASE 缺席",
+      "etymology": "",
+      "senses": [
+        {
+          "form": "PHRASE",
+          "tips": [
+            "formal"
+          ],
+          "synonym": [],
+          "examples": [
+            {
+              "english": "He was tried in absentia and sentenced to seven years in prison.",
+              "chinese": "他被缺席判处七年监禁。"
+            }
+          ],
+          "chineseExplanation": "缺席；不在场",
+          "englishExplanation": "If something is done to you in absentia, it is done to you when you are not present.",
+          "grammar": ""
+        }
+      ],
+      "usages": [],
+      "linkTo": []
+    }
+  }
+]
