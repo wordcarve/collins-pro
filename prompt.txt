@@ -75,18 +75,165 @@
        - `overlook each other's faults`（过于具体，未抽象）  
        - `a committee to overlook finance`（句子片段，非抽象结构）  
        - `VERB + AT`（教学字段风格）
+       - `agency`（单个单词，禁止输出）
 
   * `"meaning"`：简洁中文释义，不超过 10 字。  
   * `"examples"`：至少包含一个中英文例句对，优先使用 `senses` 内符合该结构的例句，否则自拟贴切例句。
 
 5. 输出字段顺序应为：  
-  - word  
-  - forms  
-  - meaning  
-  - etymology（如有）  
-  - senses（数组）  
-  - usages（数组）  
+  - word（保持原样）
+  - forms
+  - meaning
+  - etymology（可选）  
+  - senses（数组，保持原样）  
+  - usages（数组，可选）  
   - linkTo
+
+6. 示例输出，供参考，你需要符合这个格式：
+{
+  "word": "shove",
+  "forms": {
+    "ing": "shoving",
+    "done": "shoved",
+    "past": "shoved",
+    "third": "shoves",
+    "plural": "shoves"
+  },
+  "meaning": "vt. 猛推，乱塞",
+  "senses": [
+    {
+      "form": "VERB",
+      "tips": [],
+      "synonym": [
+        "push",
+        "shoulder",
+        "thrust",
+        "elbow"
+      ],
+      "examples": [
+        {
+          "chinese": "他一把将她推开。",
+          "english": "He shoved her out of the way."
+        },
+        {
+          "chinese": "接着他被一把推倒，脸朝下趴在了人行道上。",
+          "english": "He was then shoved face down on the pavement."
+        },
+        {
+          "chinese": "他就是那个推撞我的人。",
+          "english": "He's the one who shoved me."
+        },
+        {
+          "chinese": "她竭尽全力猛地一推。",
+          "english": "She shoved as hard as she could."
+        }
+      ],
+      "chineseExplanation": "猛推；乱挤；推撞",
+      "englishExplanation": "If you shove someone or something, you push them with a quick, violent movement.",
+      "grammar": "VERB noun"
+    },
+    {
+      "form": "VERB",
+      "tips": [],
+      "synonym": [
+        "stick",
+        "push",
+        "thrust",
+        "ram"
+      ],
+      "examples": [
+        {
+          "chinese": "我们往他们门下塞了一份时事通讯。",
+          "english": "We shoved a copy of the newsletter beneath their door."
+        },
+        {
+          "chinese": "他往我手中塞了块布。",
+          "english": "He shoved a cloth in my hand."
+        }
+      ],
+      "chineseExplanation": "乱放；乱塞；随便放；胡乱丢",
+      "englishExplanation": "If you shove something somewhere, you push it there quickly and carelessly.",
+      "grammar": "VERB noun prep./adv."
+    },
+    {
+      "form": "PHRASE",
+      "tips": [
+        "informal"
+      ],
+      "synonym": [],
+      "examples": [
+        {
+          "chinese": "如果情况不妙，法庭上败诉，你会怎么办？",
+          "english": "If push comes to shove, if you should lose your case in the court, what will you do?."
+        },
+        {
+          "chinese": "如果形势糟糕，你就只能靠自己了。",
+          "english": "When push comes to shove, you are on your own."
+        }
+      ],
+      "chineseExplanation": "情况不妙时；别无选择时；形势十分糟糕时",
+      "englishExplanation": "If you talk about what you think will happen if push comes to shove, you are talking about what you think will happen if a situation becomes very bad or difficult.",
+      "grammar": "PHRASE"
+    }
+  ],
+  "usages": [
+    {
+      "form": "shove sb./sth. out of the way",
+      "meaning": "把某人/某物推开",
+      "examples": [
+        {
+          "english": "He shoved her out of the way.",
+          "chinese": "他一把将她推开。"
+        }
+      ]
+    },
+    {
+      "form": "shove sb./sth. + prep./adv.",
+      "meaning": "把某人/某物猛推/塞到……",
+      "examples": [
+        {
+          "english": "He was then shoved face down on the pavement.",
+          "chinese": "接着他被一把推倒，脸朝下趴在了人行道上。"
+        },
+        {
+          "english": "We shoved a copy of the newsletter beneath their door.",
+          "chinese": "我们往他们门下塞了一份时事通讯。"
+        }
+      ]
+    },
+    {
+      "form": "shove sb./sth.",
+      "meaning": "猛推某人/某物",
+      "examples": [
+        {
+          "english": "He's the one who shoved me.",
+          "chinese": "他就是那个推撞我的人。"
+        }
+      ]
+    },
+    {
+      "form": "shove as hard as one could",
+      "meaning": "尽全力猛推",
+      "examples": [
+        {
+          "english": "She shoved as hard as she could.",
+          "chinese": "她竭尽全力猛地一推。"
+        }
+      ]
+    },
+    {
+      "form": "if push comes to shove",
+      "meaning": "如果情况不妙",
+      "examples": [
+        {
+          "english": "If push comes to shove, if you should lose your case in the court, what will you do?.",
+          "chinese": "如果情况不妙，法庭上败诉，你会怎么办？"
+        }
+      ]
+    }
+  ],
+  "linkTo": "shove"
+}
 
 请按照上述标准对以下词条 JSON 进行优化，返回 JSON，严禁输出 ```！
 
