@@ -168,7 +168,7 @@ async function main() {
                     parsedLlmResponse = JSON.parse(llmResponseContent);
                     validateLlmResponse(parsedLlmResponse);
                 } catch (jsonError) {
-                    throw new Error(`LLM 返回结果不是有效的 JSON 或缺少字段: ${jsonError.message}. 原始返回: ${llmResponseContent}`);
+                    throw new Error(`LLM 返回结果不是有效的 JSON 或缺少字段: ${jsonError.message}. `);
                 }
                 
                 const firstChar = word.charAt(0).toUpperCase();
