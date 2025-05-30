@@ -84,7 +84,9 @@ async function main() {
         );
 
         console.log(`开始并发处理 ${tasks.length} 个 LLM 调用...`);
-        await concurrentQueue(tasks, CONFIG.CONCURRENT_LIMIT);
+        await concurrentQueue(tasks, CONFIG.CONCURRENT_LIMIT, (progress, status) => {
+            console.log(`处理进度: ${progress}% | 已完成: ${status.completedTasks} | 失败: ${status.failedTasks} | 队列中: ${status.queueLength} | 运行中: ${status.runningTasks}`);
+        });
         console.log('所有 LLM 调用处理完成。');
 
     } catch (error) {
