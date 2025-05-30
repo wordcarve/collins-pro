@@ -1,0 +1,95 @@
+/no_think
+
+你是一名专业词典编辑与语言学家。你的任务是优化并补全所提供的柯林斯词典词条 JSON 数据。请严格遵循以下结构与规则：
+
+1. 格式统一  
+  * 统一字段内容格式，包括标点符号（中文释义全部使用全角标点）、空格、大小写、括号等。  
+  * 所有数组字段（如 synonym、examples）风格一致，且语义准确。
+
+2. 顶层字段规范化（meaning、etymology）  
+  * 为整个词条添加以下顶层字段，每个字段仅出现一次：  
+    - `"meaning"`：12 字以内的概括性释义，标明词性，例如：`vt. 剥夺，使失去`  
+    - `"etymology"`（如有）：词根词缀来源，格式统一如下：  
+      词根（含义）+ 词缀（含义）→ 演变过程 → 最终含义。  
+      例：de-（否定）+ privare（拉丁语，意为“拥有”）→ 剥夺拥有 → deprive：剥夺  
+      **当单词本身不可进一步拆分，或词源不明确/存在争议时，此字段可为空。**
+
+3. 每个 `sense`（词义）字段内容包括：  
+  * `form`：词性，如 VERB、NOUN 等  
+  * `tips`：提示数组，保持原样  
+  * `synonym`：同义词数组  
+  * `examples`：中英文例句对（数组）  
+  * `chineseExplanation`：中文解释  
+  * `englishExplanation`：英文解释  
+  * `grammar`：该词义下基础语法提示（如："VERB noun"、"NOUN + of"），供 `usages` 字段参考，但不直接决定 `usages.form` 内容。
+
+  **重要规则 - `sense` 对象筛选与处理：**  
+  * **有效性判断**：输出的 `sense` 对象的 `form` 字段必须是有效词性或短语类型（如 VERB、NOUN、N-COUNT、N-SING、ADJ、ADV、PHRASE 等）。  
+  * **排除导航/非词义条目**：若 `form` 字段为纯说明性或导航性文本（如 "See also:", "Related entries:", "Antonyms:", "Synonyms:", "Etymology note:" 等，**不包括**明确短语动词列表标记如 "Phrasal verbs:"），或条目非独立词义解释，则该 `sense` 不应包含于最终输出的 `senses` 数组中。  
+  * **短语动词列表条目处理（如 "Phrasal verbs:"）**：  
+    1. 指明为短语动词列表的 `sense` 本身不加入 `senses` 数组。  
+    2. 其中列出的每个具体短语动词（如 "phone in"、"phone up"、"get away with sth"）必须用以生成顶层 `usages` 数组中的独立条目，格式符合 `usages` 要求。
+
+  **注意：最终输出的每个 `sense` 不得包含 `teaching`、`etymology`、`meaning` 字段。**
+
+4. 顶层新增字段 `"usages"`（通用语法结构搭配）  
+  * `usages` 是数组，包含该词常见且抽象的用法结构。每个元素格式示例：  
+    ```json
+    {
+      "form": "deprive sb. of sth.",
+      "meaning": "剥夺某人某物",
+      "examples": [
+        {
+          "english": "The new law deprived many people of their right to vote.",
+          "chinese": "新法律剥夺了许多人的投票权。"
+        }
+      ]
+    }
+    ```
+
+  **极其严格的 `usages.form` 规则：**  
+  * `form` 字段必须：  
+    1. 以单词本身或短语动词开头（例如单词为 "overlook"，则 `form` 以 "overlook" 开头；若为提取自短语动词列表的 "phone in"，则以 "phone in" 开头）。  
+    2. 使用标准占位符抽象：  
+       - `sth.` 代表“某事物”；  
+       - `sb.` 代表“某人”；  
+       - 介词（如 on、at、for、with、up、in、out）直接写出；  
+       - 可用 `sb's sth.` 表示“某人的某物”；  
+       - 其他必要符号如 `adv.`、`adj.`、`to do sth.` 也可用，但优先用 `sb.` 和 `sth.`。  
+    3. 禁止出现词性字面描述，如 "noun"、"verb"、"adjective"、"VERB"、"PHRASE" 等。  
+    4. 保持具体且实用的搭配模式，例如：  
+       - 及物动词基础用法通常为 `[词] sth.` 或 `[词] sb.`  
+       - 短语动词搭配可能为 `phone sth. in` 或 `phone in sth.`  
+       - 注意固定搭配的介词、副词。  
+    5. 合格示例：  
+       - `overlook sth.`（忽视某事）  
+       - `deprive sb. of sth.`（剥夺某人某物）  
+       - `look sth. up`（查阅某物）  
+       - `phone sth. in`（打电话报告某事）  
+       - `phone in sick`（打电话请病假）  
+       - `account for sth.`（解释某事；占……）  
+       - `preference for sth.`（对某物的偏爱）  
+       - `remind sb. to do sth.`（提醒某人做某事）  
+    6. 不合格示例（必须避免）：  
+       - `overlook noun`（使用了词性名称）  
+       - `See also:`（导航标记）  
+       - `Phrasal verbs:`（集合标记）  
+       - `overlook each other's faults`（过于具体，未抽象）  
+       - `a committee to overlook finance`（句子片段，非抽象结构）  
+       - `VERB + AT`（教学字段风格）
+
+  * `"meaning"`：简洁中文释义，不超过 10 字。  
+  * `"examples"`：至少包含一个中英文例句对，优先使用 `senses` 内符合该结构的例句，否则自拟贴切例句。
+
+5. 输出字段顺序应为：  
+  - word  
+  - forms  
+  - meaning  
+  - etymology（如有）  
+  - senses（数组）  
+  - usages（数组）  
+  - linkTo
+
+请按照上述标准对以下词条 JSON 进行优化，返回纯 JSON（不包含 ```json 的 markdown 标记）:
+
+JSON_HERE
